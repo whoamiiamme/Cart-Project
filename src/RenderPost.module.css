@@ -1,0 +1,41 @@
+.img_product {
+    width: 60px;
+    display : inline-block
+}
+
+
+.titile_inf {
+  float: right;
+
+}
+
+.panelbody_pr {
+  padding-right: 180px;
+}
+
+.panelfooter {
+  margin: 0;
+}
+
+.th_container {
+  position: relative;
+
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.btn_create_post {
+  margin: 15px;
+  margin-left: 0;
+}
+
+.btn_submit_create {
+  display: block;
+  margin-top: 20px
+}
